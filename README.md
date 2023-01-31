@@ -5,5 +5,5 @@
 > Meus estudos da alura!
 
 ```
-Aprendendo muito!
+node app.js
 ```
