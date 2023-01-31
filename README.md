@@ -1,4 +1,4 @@
-<h1>Meus </h1>
+<h1>Meus estudos </h1>
 
 > Status do projeto : Em desenvolvimento
 
